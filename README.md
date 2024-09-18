@@ -2,12 +2,12 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=55&center=true&vCenter=true&width=1000&wheight=bolder&lines=Ola,+Meu+nome+é+Samuel+Seven;Eu+tenho+17+anos;Eu+sou+de+Bauru+(SP);Eu+Sou+um+Desenvolvedor;Seja+Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=55&center=true&vCenter=true&width=1000&wheight=bolder&lines=Ola,+Meu+nome+é+Moisés+Vitor;Eu+tenho+16+anos;Eu+sou+de+Agudos+(SP);Eu+Sou+um+Desenvolvedor;Seja+Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sevenoffice777&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="SevenOffice777 github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=moisesoffice16&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="moisesoffice16 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenoffice777&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
@@ -18,11 +18,11 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sevenoffice777&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moisesoffice16&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/samuel_seven777/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/moises_vitor16/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
 ### Principais Skills:
